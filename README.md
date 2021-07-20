@@ -7,17 +7,31 @@ download main.py file, write code in UWUPY SCRIPT, run the main.py file, then sp
 ## documentation (uwupy syntax to python syntax)
 
 "cwass": "class"
+
 "__nwame__": "__name__"
+
 "retwern": "return"
+
 "pwint": "print"
+
 "intpwut": "input"
+
 "fwor": "for"
+
 "die": "quit"
+
 "wen": "when"
+
 "waile": "while"
+
 "tru": "True"
+
 "no!": "False"
+
 "pls": "try"
+
 "but...": "except"
+
 "welcome": "import"
+
 "dwef": "def"
